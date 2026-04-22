@@ -104,7 +104,5 @@ Nilavarasan
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 * This project was performed in a controlled lab environment for educational purposes only. Do not attempt this on unauthorized systems.
-
-This project was performed in a controlled lab environment for educational purposes only. Do not attempt this on unauthorized systems.
